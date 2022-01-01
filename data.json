@@ -1,0 +1,85 @@
+{
+    "menu" : [
+        {
+            "Jenis" : "Sarapan",
+            "Nama" : "Egg and Cheese Muffin",
+            "Deskripsi" : "Perpaduan scrambled egg dan keju gurih dalam setangkup English Muffin hangat. Tersedia dari jam 5-11 pagi.",
+            "Harga" : 15000,
+            "Estimasi" : "5 menit",
+            "Gambar" : "EGGnCheeseMuffin.png"
+        },
+        {
+            "Jenis" : "Sarapan",
+            "Nama" : "Sausage Wrap",
+            "Deskripsi" : "Perpaduan sosis ayam, scrambled egg, dan keju gurih dalam balutan tortilla yang lembut. Tersedia dari jam 5-11 pagi.",
+            "Harga" : 22000,
+            "Estimasi" : "10 menit",
+            "Gambar" : "SausageWrap.png"
+        },
+        {
+            "Jenis" : "Sarapan",
+            "Nama" : "Nasi Uduk",
+            "Deskripsi" : "Nasi uduk gurih dengan topping sambal terasi, scrambled egg, bawang goreng, kini makin lengkap dengan suwiran ayam goreng. Tersedia dari jam 5-11 pagi.",
+            "Harga" : 18500,
+            "Estimasi" : "7 menit",
+            "Gambar" : "nasiuduk.png"
+        },
+        {
+            "Jenis" : "Sarapan",
+            "Nama" : "Bubur Ayam McD",
+            "Deskripsi" : "Bubur ayam klasik disajikan dengan seledri dan bawang goreng renyah, tersedia jam 5-11 pagi.",
+            "Harga" : 11500,
+            "Estimasi" : "5 menit",
+            "Gambar" : "Buburayam.png"
+        },
+        {
+            "Jenis" : "Reguler",
+            "Nama" : "Egg and Cheese Muffin",
+            "Deskripsi" : "Perpaduan scrambled egg dan keju gurih dalam setangkup English Muffin hangat",
+            "Harga" : 15000,
+            "Estimasi" : "5 menit",
+            "Gambar" : "EGGnCheeseMuffin.png"
+        },
+        {
+            "Jenis" : "Reguler",
+            "Nama" : "Beef Prosperity Burger",
+            "Deskripsi" : "Burger dengan daging sapi dengan saus lada hitam/black pepper, ditambah dengan bawang bombai, yang disajikan dalam setangkup roti panjang bertabur wijen.",
+            "Harga" : 45500,
+            "Estimasi" : "12 menit",
+            "Gambar" : "BeefProsperityBurger.png"
+        },
+        {
+            "Jenis" : "Reguler",
+            "Nama" : "Fish Prosperity Burger",
+            "Deskripsi" : "Burger dengan daging fillet ikan Nila dengan saus lada hitam/black pepper, ditambah dengan bawang bombai, yang disajikan dalam setangkup roti panjang bertabur wijen.",
+            "Harga" : 45500,
+            "Estimasi" : "12 menit",
+            "Gambar" : "FishProsperityBurger.png"
+        },
+        {
+            "Jenis" : "Reguler",
+            "Nama" : "PaNas 2 with Fries",
+            "Deskripsi" : "2 pcs Ayam Goreng khas McDonald's dengan kentang goreng dan minuman FruitTea lemon yang menyegarkan. Tersedia dalam pilihan Ayam Krispy atau Spicy",
+            "Harga" : 45500,
+            "Estimasi" : "15 menit",
+            "Gambar" : "PaNas2withFries.png"
+        },
+        {
+            "Jenis" : "Minuman",
+            "Nama" : "Coca Cola",
+            "Deskripsi" : "Minuman berkarbonasi dengan rasa cola",
+            "Harga" : 8500,
+            "Estimasi" : "2 menit",
+            "Gambar" : "CocaCola.png"
+        },
+        {
+            "Jenis" : "Minuman",
+            "Nama" : "Pomegranate Fizz",
+            "Deskripsi" : "Minuman bersoda dengan rasa manis segar buah delima.",
+            "Harga" : 17000,
+            "Estimasi" : "2 menit",
+            "Gambar" : "PomegranateFizz.png"
+        }
+
+        ]
+}
